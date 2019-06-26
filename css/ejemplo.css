@@ -1,0 +1,14 @@
+#ejemplo h1 {
+	background: #A6ACAF;
+	font-size: 50px;
+	font-family: "Algerian";
+	color: #E67E22;
+	text-shadow:  -4px 2px 0 #0a0e27;
+}
+
+#ejemplo h2 {
+	margin-top: 20px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
